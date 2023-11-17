@@ -1,0 +1,1 @@
+This is the file that contains ideas for Kubernetes tutorials by user nebojsatomic
